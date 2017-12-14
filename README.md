@@ -1,31 +1,6 @@
-list name
-1.song
-2.manow
-3.boss
-4.mind
-5.kam
-6.kad
-7.tee
-8.neng
-9.art
-10.sun
-12.tor
-13.ice
-14.cat
-15.golf
-16.baiwaii
-17.kron
-18.nick
-19.kao
-20.nu
-21.ball
-22.mew
-23.pan
-24.deedo
-25.bote
-26.sun
-27.kat
-28.meaw
-29.atom
-30.non
-31.carrot
+#include <stdio.h>
+
+main( )
+{
+printf("hello, world\n");
+}
